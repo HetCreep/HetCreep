@@ -26,7 +26,7 @@ A mining series of quality/safety tools for AI coding agents — cross-agent by 
 - A birth certificate you can test: no frontier-model outputs in the training corpus, and we publish the independence evidence to prove it
 - Free local weights first; details, benchmarks, and dates when they're real — this page will update as the kiln burns
 
-*(รายละเอียดจะทยอยอัปเดต — ตอนนี้เตายังเผาอยู่)*
+*(Details will be updated gradually — the kiln is still in operation.)*
 
 ## 🔭 Elsewhere
 
