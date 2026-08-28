@@ -42,5 +42,7 @@ A mining series of quality/safety tools for AI coding agents — cross-agent by 
 
 If these tools save you tokens or catch your bugs: [GitHub Sponsors](https://github.com/sponsors/HetCreep) — every bit funds more open tooling.
 
+Questions, partnerships, or Kolwen inquiries: [contact@kolwen.com](mailto:contact@kolwen.com)
+
 ---
 *measured, not trusted · consent-gated · verify or flag*
