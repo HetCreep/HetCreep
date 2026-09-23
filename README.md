@@ -2,7 +2,7 @@
 
 I build **safety-first tooling for AI agents** from Thailand — tools that measure instead of trust, ask before they spend, and verify or flag instead of guessing.
 
-## ⚒️ The Colliery
+## ⚒️ TheColliery
 
 A mining series of quality/safety tools for AI coding agents — mostly cross-agent (Claude Code, Antigravity, Codex, Cursor and more); each tool's README states exactly how far it has been taken, and CoalTipple is Claude Code only:
 
