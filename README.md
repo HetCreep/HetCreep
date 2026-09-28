@@ -6,7 +6,7 @@ I build **safety-first tooling for AI agents** from Thailand — tools that meas
 
 A mining series of quality/safety tools for AI coding agents — mostly cross-agent (Claude Code, Antigravity, Codex, Cursor and more); each tool's README states exactly how far it has been taken, and CoalTipple is Claude Code only. The State column tells the two kinds apart: a *stable* tool has a published stable Release, a *beta* tool has none yet.
 
-New here? [CoalMine](https://github.com/TheColliery/CoalMine) is the most fully-shipped tool and the natural starting point.
+New here? [CoalMine](https://github.com/TheColliery/CoalMine) is the longest-running tool and the natural starting point.
 
 | Tool | What it does | State |
 |---|---|---|
@@ -40,7 +40,7 @@ New here? [CoalMine](https://github.com/TheColliery/CoalMine) is the most fully-
 - Contributing test-generation fixes to [move-test-gen](https://github.com/talongate/move-test-gen)
 - Was a team member at [KatomnoiStudio](https://github.com/KatomnoiStudio) — a Thai game project (org archived Sep 2026)
 
-*(links last verified 2026-09-28)*
+*(links last verified 2026-09-29)*
 
 ## ✍️ Writing
 
@@ -51,7 +51,7 @@ New here? [CoalMine](https://github.com/TheColliery/CoalMine) is the most fully-
 
 If these tools save you tokens or catch your bugs: [GitHub Sponsors](https://github.com/sponsors/HetCreep) — every bit funds more open tooling.
 
-Questions, partnerships, or Kolwen inquiries: [contact@kolwen.com](mailto:contact@kolwen.com)
+Questions, partnerships, or Kolwen inquiries: [info@kolwen.com](mailto:info@kolwen.com)
 
 Follow along: [X](https://x.com/HetCreep) · [YouTube](https://www.youtube.com/@HetCreep)
 
