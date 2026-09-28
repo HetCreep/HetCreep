@@ -4,7 +4,7 @@ I build **safety-first tooling for AI agents** from Thailand — tools that meas
 
 ## ⚒️ The Colliery
 
-A mining series of quality/safety tools for AI coding agents — mostly cross-agent (Claude Code, Antigravity, Codex, Cursor and more); each tool's README states exactly how far it has been taken, and CoalTipple is Claude Code only. The State column tells the two kinds apart: a *stable* tool has a stable release, a *beta* tool is still shipping partial functionality.
+A mining series of quality/safety tools for AI coding agents — mostly cross-agent (Claude Code, Antigravity, Codex, Cursor and more); each tool's README states exactly how far it has been taken, and CoalTipple is Claude Code only. The State column tells the two kinds apart: a *stable* tool has a published stable Release, a *beta* tool has none yet.
 
 New here? [CoalMine](https://github.com/TheColliery/CoalMine) is the most fully-shipped tool and the natural starting point.
 
@@ -21,7 +21,7 @@ New here? [CoalMine](https://github.com/TheColliery/CoalMine) is the most fully-
 
 📖 **Docs:** [TheColliery documentation](https://thecolliery.org/docs)
 
-**License:** all eight are Apache-2.0.
+**License:** every tool above is Apache-2.0.
 
 **House rules the whole series lives by:** zero dependencies · offline-capable · fail-silent hooks that never break your session · every costly action consent-gated · honest claims only (a README must match what the code actually does).
 
