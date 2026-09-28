@@ -51,7 +51,7 @@ New here? [CoalMine](https://github.com/TheColliery/CoalMine) is the longest-run
 
 If these tools save you tokens or catch your bugs: [GitHub Sponsors](https://github.com/sponsors/HetCreep) — every bit funds more open tooling.
 
-Questions, partnerships, or Kolwen inquiries: [info@kolwen.com](mailto:info@kolwen.com)
+Tool questions: [info@thecolliery.org](mailto:info@thecolliery.org) · Kolwen and partnerships: [info@kolwen.com](mailto:info@kolwen.com)
 
 Follow along: [X](https://x.com/HetCreep) · [YouTube](https://www.youtube.com/@HetCreep)
 
