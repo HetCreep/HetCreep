@@ -4,7 +4,9 @@ I build **safety-first tooling for AI agents** from Thailand — tools that meas
 
 ## ⚒️ The Colliery
 
-A mining series of quality/safety tools for AI coding agents — mostly cross-agent (Claude Code, Antigravity, Codex, Cursor and more); each tool's README states exactly how far it has been taken, and CoalTipple is Claude Code only:
+A mining series of quality/safety tools for AI coding agents — mostly cross-agent (Claude Code, Antigravity, Codex, Cursor and more); each tool's README states exactly how far it has been taken, and CoalTipple is Claude Code only. Unmarked tools are stable; only tools flagged *(beta)* are still shipping partial functionality.
+
+New here? [CoalMine](https://github.com/TheColliery/CoalMine) is the most fully-shipped tool and the natural starting point.
 
 | Tool | What it does |
 |---|---|
@@ -34,7 +36,9 @@ A mining series of quality/safety tools for AI coding agents — mostly cross-ag
 ## 🔭 Elsewhere
 
 - Contributing test-generation fixes to [move-test-gen](https://github.com/talongate/move-test-gen)
-- Team member at [KatomnoiStudio](https://github.com/KatomnoiStudio) — a Thai game project
+- Was a team member at [KatomnoiStudio](https://github.com/KatomnoiStudio) — a Thai game project (org archived Sep 2026)
+
+*(links last verified 2026-09-28)*
 
 ## ✍️ Writing
 
