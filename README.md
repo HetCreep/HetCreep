@@ -40,12 +40,13 @@ New here? [CoalMine](https://github.com/TheColliery/CoalMine) is the longest-run
 - Contributing test-generation fixes to [move-test-gen](https://github.com/talongate/move-test-gen)
 - Was a team member at [KatomnoiStudio](https://github.com/KatomnoiStudio) — a Thai game project (org archived Sep 2026)
 
-*(links last verified 2026-09-29)*
+*(links last verified 2026-10-01)*
 
 ## ✍️ Writing
 
 - [SpriteDesignDatum](https://github.com/HetCreep/SpriteDesignDatum) — a geometry standard for 2D sprite art, and an honest map of which parts of it any authority actually publishes
 - [hetcreep-docs](https://hetcreep.gitbook.io/hetcreep-docs) — my articles and notes
+- Read the articles: [Sprite Design Datum, the standard](https://hetcreep.gitbook.io/hetcreep-docs/sprite-design-datum) · [Gacha Rate Design Datum](https://hetcreep.gitbook.io/hetcreep-docs/gacharatedesigndatum)
 
 ## ☕ Support
 
