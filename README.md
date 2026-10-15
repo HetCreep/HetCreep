@@ -39,8 +39,9 @@ New here? [CoalMine](https://github.com/TheColliery/CoalMine) is the longest-run
 
 - Contributing test-generation fixes to [move-test-gen](https://github.com/talongate/move-test-gen)
 - Was a team member at [KatomnoiStudio](https://github.com/KatomnoiStudio) — a Thai game project (org archived Sep 2026)
+- Also on GitLab: [gitlab.com/HetCreep](https://gitlab.com/HetCreep)
 
-*(links last verified 2026-10-01)*
+*(links last verified 2026-10-16)*
 
 ## ✍️ Writing
 
