@@ -38,10 +38,11 @@ New here? [CoalMine](https://github.com/TheColliery/CoalMine) is the longest-run
 ## 🔭 Elsewhere
 
 - Contributing test-generation fixes to [move-test-gen](https://github.com/talongate/move-test-gen)
+- Contributing fixes and hardening to [Win11Debloat](https://github.com/Raphire/Win11Debloat) — 26 merged pull requests
 - Was a team member at [KatomnoiStudio](https://github.com/KatomnoiStudio) — a Thai game project (org archived Sep 2026)
 - Also on GitLab: [gitlab.com/HetCreep](https://gitlab.com/HetCreep)
 
-*(links last verified 2026-10-16)*
+*(links last verified 2026-10-23)*
 
 ## ✍️ Writing
 
@@ -51,7 +52,9 @@ New here? [CoalMine](https://github.com/TheColliery/CoalMine) is the longest-run
 
 ## ☕ Support
 
-If these tools save you tokens or catch your bugs: [GitHub Sponsors](https://github.com/sponsors/HetCreep) — every bit funds more open tooling.
+If these tools save you tokens or catch your bugs: [Sponsor TheColliery](https://github.com/sponsors/TheColliery) — every bit funds more open tooling.
+
+If you'd like to back my own work, the design-datum articles and my fixes to other projects such as Win11Debloat and move-test-gen: [Sponsor HetCreep](https://github.com/sponsors/HetCreep).
 
 Tool questions: [info@thecolliery.org](mailto:info@thecolliery.org) · Kolwen and partnerships: [info@kolwen.com](mailto:info@kolwen.com)
 
