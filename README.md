@@ -27,7 +27,7 @@ New here? [CoalMine](https://github.com/TheColliery/CoalMine) is the longest-run
 
 ## 🔥 Next from the furnace
 
-**Kolwen** — a Thai-first LLM, being built the way this whole series works: **verify or flag, never guess.**
+**[Kolwen](https://github.com/Kolwen-AI)** — an LLM for an international audience, being built the way this whole series works: **verify or flag, never guess.**
 
 - Raised by **many teachers, shadow of none** — assembled from the world's open bloodlines, with every ingredient credited
 - A birth certificate you can test: no frontier-model outputs in the training corpus, and we publish the independence evidence to prove it
@@ -38,11 +38,11 @@ New here? [CoalMine](https://github.com/TheColliery/CoalMine) is the longest-run
 ## 🔭 Elsewhere
 
 - Contributing test-generation fixes to [move-test-gen](https://github.com/talongate/move-test-gen)
-- Contributing fixes and hardening to [Win11Debloat](https://github.com/Raphire/Win11Debloat) — 26 merged pull requests
-- Was a team member at [KatomnoiStudio](https://github.com/KatomnoiStudio) — a Thai game project (org archived Sep 2026)
+- Contributing fixes and hardening to [Win11Debloat](https://github.com/Raphire/Win11Debloat) — 29 merged pull requests
+- Was a team member at [KatomnoiStudio](https://github.com/KatomnoiStudio) — a Thai game project (org archived Oct 2026)
 - Also on GitLab: [gitlab.com/HetCreep](https://gitlab.com/HetCreep)
 
-*(links last verified 2026-10-23)*
+*(links last verified 2026-11-25)*
 
 ## ✍️ Writing
 
